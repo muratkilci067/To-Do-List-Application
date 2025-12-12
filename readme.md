@@ -12,7 +12,13 @@ A simple and user-friendly **To-Do List** application built using **HTML, CSS, a
 
 ## 📸 Screenshots
 
-| [](./images/Screenshot.png) |
+| [Screenshot](./images/Screenshot.png) |
+
+## 🔗 Live Site
+
+[Live Demo](https://muratkilci067.github.io/To-Do-List-Application/) 
+
+---
 
 ## 🛠️ Technologies Used
 
